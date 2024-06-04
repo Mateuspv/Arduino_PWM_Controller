@@ -24,6 +24,7 @@ Repositório utilizado na matéria de Sistemas Embarcados na faculdade UNIMATER
 ##### - L293D
 ##### - BAT (5V)
 ##### - GROUND
+##### - Oscilloscope
 
 # esquemático
 
